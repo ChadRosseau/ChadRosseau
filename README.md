@@ -20,8 +20,8 @@ I’m a computer science specialist at the University of Toronto. My work focuse
 
 ## Notable Projects
 
-- **Contribot** – Streamlines contributions to open-source repositories [https://contribot.net](https://contribot.net)
-- **PromptBook** – AI-powered interactive notebook for prompt engineering and workflows [https://promptbook.work](https://promptbook.work)
+- **Contribot** – Streamlines contributions to open-source repositories ([https://contribot.net](https://contribot.net))
+- **PromptBook** – AI-powered interactive notebook for prompt engineering and workflows ([https://promptbook.work](https://promptbook.work))
 - **Rust Financial CLI Tool** – Command-line tool for financial calculations and analysis  
 - **Ticketmaster Web3 Website** – Built a Web3-enabled ticketing platform integrating NFTs for event access  
 - **Blockchain Transaction Aggregator** – Aggregates wallet asset balances and supports mass migrations across addresses  

@@ -18,22 +18,22 @@ I’m a computer science specialist at the University of Toronto. My work focuse
 - Teaching Assistant, Full-Stack Web Development @ University of Toronto  
 - HBSc, Computer Science Specialist (Co-op) – Entrepreneurship Stream  
 
-## Current Projects
+## Notable Projects
 
-- **Contribot** – Streamlines contributions to open-source repositories  
-- **PromptBook** – AI-powered interactive notebook for prompt engineering and workflows  
-- **Tetris in Assembly** – MIPS assembly implementation of the classic game  
+- **Contribot** – Streamlines contributions to open-source repositories [https://contribot.net](https://contribot.net)
+- **PromptBook** – AI-powered interactive notebook for prompt engineering and workflows [https://promptbook.work](https://promptbook.work)
 - **Rust Financial CLI Tool** – Command-line tool for financial calculations and analysis  
 - **Ticketmaster Web3 Website** – Built a Web3-enabled ticketing platform integrating NFTs for event access  
 - **Blockchain Transaction Aggregator** – Aggregates wallet asset balances and supports mass migrations across addresses  
-- **Apache Superset Contribution** – Cloudflare D1 integration for SQLAlchemy and Python DB-API  
+- **Apache Superset Contribution** – Cloudflare D1 integration for SQLAlchemy and Python DB-API
+- **Tetris in Assembly** – MIPS assembly implementation of the classic game  
 
 ## Experience Highlights
 
 - **Venho.AI** – Built adaptive AI frontends and real-time workflow systems  
 - **AirImpact** – Migrated services to open-source LLMs and redesigned Python APIs for efficiency  
 - **University of Toronto** – Assisted 50+ students in full-stack web development, code reviews, and labs  
-- **Open Source** – Contributing to Apache Superset to support external database integrations  
+- **Open Source** – Contributing to Apache Superset to [support the Cloudflare D1 Database](https://github.com/apache/superset/discussions/35273)
 
 ## Languages & Tools
 
